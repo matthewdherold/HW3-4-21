@@ -2,5 +2,8 @@
   "dependencies": {
     "inquirer": "^8.1.0",
     "jest": "^27.0.1"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
