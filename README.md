@@ -8,7 +8,7 @@ Javascript project utilizing inquirer to generate a basic html profile page for 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Video](#video)
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
@@ -19,6 +19,10 @@ Clone the repository from GitHub, open your command line in the project folder, 
 
 ## Usage
 Open the command line in the project folder and run "npm start" to begin the application. The command line will then request information on your team. Fill out each section, then your new html page will be created in the output folder, including all of the information you provided.
+
+## Video
+<img src="./dist/Team-Generator-Demo-Video.gif" alt="application demo">
+Link to Video: https://drive.google.com/file/d/16i1PJbJMMQVixL3tDIC-rcs_g4UY9INo/view
 
 ## License
 GNU GPL v3
