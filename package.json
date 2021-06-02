@@ -1,9 +1,14 @@
 {
+  "name": "TeamProfileGenerator",
+  "version": "1.0.0",
+  "description": "Generates html profile page for a team of workers",
+  "main": "index.js",
   "dependencies": {
     "inquirer": "^8.1.0",
     "jest": "^27.0.1"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "jest --verbose test/*"
   }
 }
